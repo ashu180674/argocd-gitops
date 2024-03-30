@@ -1,8 +1,9 @@
 ﻿<a name="kix.ut7cf78uih67"></a>**Task 1: Setup and Configuration**
 
 **Step1: Create a github repo**
+![Screenshot from 2024-03-30 20-11-41](https://github.com/ashu180674/argocd-gitops/assets/105533911/a9708669-f3ec-4e06-81df-65412f2af449)
 
-![](Aspose.Words.b7bf0ad8-a9ba-47d5-bb79-15efaaacd421.001.png)
+
 
 
 - **Installing  Argo CD on Kubernetes Cluster**:
