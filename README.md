@@ -216,8 +216,8 @@ Kubectl apply -f deployment.yaml
 
 kubectl apply -f rollout.yaml
 
+![Screenshot from 2024-03-30 23-40-38](https://github.com/ashu180674/argocd-gitops/assets/105533911/065b9db7-1f97-47ba-b6f8-51905f5e0da2)
 
-![](Aspose.Words.b7bf0ad8-a9ba-47d5-bb79-15efaaacd421.002.png)
 
 
 
@@ -227,5 +227,4 @@ kubectl apply -f rollout.yaml
 
 kubectl argo rollouts dashboard
 
-
-![](Aspose.Words.b7bf0ad8-a9ba-47d5-bb79-15efaaacd421.003.png)
+![Screenshot from 2024-03-30 23-51-53](https://github.com/ashu180674/argocd-gitops/assets/105533911/eca8e937-02ab-499e-808c-08f3157e879b)
